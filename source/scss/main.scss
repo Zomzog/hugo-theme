@@ -196,3 +196,18 @@ article div.highlight {
 .blog-footer p:last-child {
   margin-bottom: 0;
 }
+
+
+#profile {
+   text-align: center;
+	  padding: 30px 10px;
+	  position: relative;
+	}
+	
+	#profile .portrait {
+	  width: 200px;
+	  height: 200px;
+    margin: 0 auto;
+    border-radius: 50%;
+    background-size: cover;
+  }
